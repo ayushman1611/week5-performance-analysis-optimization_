@@ -1,0 +1,7 @@
+Concurrent Users,P95 Response Time (s),Throughput (req/s),CPU Utilization (%),Memory Utilization (%),Database Latency (ms),Error Rate (%)
+50,0.85,120,32,48,40,0.2
+100,1.1,235,43,52,55,0.3
+200,1.6,430,58,61,78,0.5
+400,2.8,690,76,73,130,1.2
+600,4.9,720,91,86,220,2.8
+800,7.6,705,96,93,350,5.1
